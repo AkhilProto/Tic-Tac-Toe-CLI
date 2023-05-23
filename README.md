@@ -22,7 +22,7 @@ cd tic-tac-toe
 3. Run the game:
 
 ```
-python tic_tac_toe.py
+python main.py
 ```
 
 ### Gameplay
