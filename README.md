@@ -10,13 +10,13 @@ A simple Tic-Tac-Toe game made with Python.
 1. Clone the repository:
 
 ```
-git clone https://github.com/bard/tic-tac-toe.git
+git clone https://github.com/AkhilProto/Tic-Tac-Toe-CLI
 ```
 
 2. Navigate to the directory:
 
 ```
-cd tic-tac-toe
+cd Tic-Tac-Toe-CLI
 ```
 
 3. Run the game:
@@ -41,7 +41,6 @@ I hope you enjoy playing Tic-Tac-Toe!
 ### Requirements
 
 * Python 3.6+
-* Pip
 
 ### Author
 
